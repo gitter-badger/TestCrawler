@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Nek-/TestCrawler.svg?branch=master)](https://travis-ci.org/Nek-/TestCrawler)
+
 ![Deal with it](http://www.thepostturtle.com/wp-content/uploads/2015/02/Obama-Deal-with-It.jpg)
 
 # Awesome the awesome.

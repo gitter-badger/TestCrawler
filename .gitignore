@@ -1,3 +1,4 @@
 vendor
 .phpcomplete_extended
 config.yml
+.idea

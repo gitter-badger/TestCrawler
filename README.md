@@ -1,5 +1,4 @@
 [![Build Status](https://travis-ci.org/Nek-/TestCrawler.svg?branch=master)](https://travis-ci.org/Nek-/TestCrawler)
-![Download stat](https://img.shields.io/github/downloads/atom/atom/latest/total.svg)
 ![Awesomeness](https://img.shields.io/badge/awesomeness-sucess-brightgreen.svg)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Nek-/TestCrawler/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Nek-/TestCrawler/?branch=master)
 

@@ -2,3 +2,4 @@ vendor
 .phpcomplete_extended
 config.yml
 .idea
+fabfile.pyc
